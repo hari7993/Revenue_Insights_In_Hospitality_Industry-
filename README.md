@@ -23,4 +23,4 @@ The Project: The project focused on delivering data-driven insights to the Reven
 This experience has been incredibly insightful, allowing me to delve into the unique challenges and nuances of the hospitality sector. Every industry comes with its own distinct data landscape, which requires a tailored approach to effectively navigate and understand.
 
 
-
+![image](https://github.com/user-attachments/assets/83d140a4-031a-49a5-8fda-c6a173195d18)
